@@ -1,0 +1,4 @@
+Exercise: Bridge - RemoteController
+---------------------------------------------------------------------
+
+Implementieren Sie die fehlende Sub-Klasse "UniversalControl".
